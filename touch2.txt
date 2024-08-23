@@ -1,1 +1,5 @@
 hola, esto es una prueba para touch2
+
+esto es una prueba para el stash
+
+recuperando del stash
